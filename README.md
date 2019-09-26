@@ -2,7 +2,7 @@
 ## Motivação
 De uma forma ou de outra todos temos a necessidade de controlar as finanças, temos extensa gama de aplicativos que fazem isso muito bem, mas como desenvolvedor me propus este desafio, então vou criar o meu próprio app reunindo algumas idéias que julgo serem interessantes e em alguns casos até mesmo pela desafio. Vamos ver qual será o resultado.
 
-A quem interessar possa recomendo pegar uma boa xícara de café e vamos aos estudos! :-)
+Se interessou pelo assunto, recomendo pegar uma boa xícara de café e vamos aos estudos! :-)
 
 ## Screenshots 
 <table>
