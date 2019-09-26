@@ -5,8 +5,16 @@ De uma forma ou de outra todos temos a necessidade de controlar as finanças, te
 A quem interessar possa recomendo pegar uma boa xícara de café e vamos aos estudos! :-)
 
 ## Screenshots 
-<img src="https://github.com/atrombetone/ctrl-financeiro-ui/blob/master/screenshots/home-screen.jpg" width="300" />
-<img src="https://github.com/atrombetone/ctrl-financeiro-ui/blob/master/screenshots/menu.jpg" width="300" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/atrombetone/ctrl-financeiro-ui/blob/master/screenshots/home-screen.jpg" width="300" />
+    </td>
+    <td>
+      <img src="https://github.com/atrombetone/ctrl-financeiro-ui/blob/master/screenshots/menu.jpg" width="300" />
+    </td>
+  </tr>
+</table>
 
 ## Technical
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.2.
